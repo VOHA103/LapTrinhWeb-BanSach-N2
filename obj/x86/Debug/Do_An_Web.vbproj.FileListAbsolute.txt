@@ -1,0 +1,2 @@
+D:\New folder\VoThiThuHa_CV\tai_lieu\TaiLieuWeb\Do_An_Web\obj\x86\Debug\Do_An_Web.vbproj.CoreCompileInputs.cache
+D:\New folder\VoThiThuHa_CV\tai_lieu\TaiLieuWeb\Do_An_Web\obj\x86\Debug\Do_An_Web.vbproj.AssemblyReference.cache
